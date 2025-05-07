@@ -32,4 +32,4 @@ point = total * 0.1; // Toplanan sayilarin %10'u
 
 Console.WriteLine("-----------------------------------------");
 
-Console.Write(idNumber + " Tc numarali " + name + " " + surname + " isimli kisi icin kayit olusturulmustur.\n" + telNumber + " telefon numarasina bildirim mesaji gonderilmistir.\n" + total + " toplam harcama karsiligi kazanilan %10 patika puan miktari -> " + point.ToString("F2") + " TL' dir.");
+Console.Write(idNumber + " Tc numarali " + name + " " + surname + " isimli kisi icin kayit olusturulmustur.\n" + telNumber + " telefon numarasina bildirim mesaji gonderilmistir.\n" + total + " toplam harcama karsiligi kazanilan %10 patika puan miktari -> " + point.ToString("F2") + " TL' dir."); //ToString("F2") ifadesini point degerinin virgulden sonra 2 basamagini gostermesi icin yazdim.
