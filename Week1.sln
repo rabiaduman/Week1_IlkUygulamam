@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "If_Else", "If_Else\If_Else.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfElse_SwitchCase", "IfElse_SwitchCase\IfElse_SwitchCase.csproj", "{6DF6DD95-98A0-428F-8C5E-2DF53299AEAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BilgiYarismasi", "BilgiYarismasi\BilgiYarismasi.csproj", "{D1EF8E78-5641-483D-8EA5-05CC09F84824}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6DF6DD95-98A0-428F-8C5E-2DF53299AEAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DF6DD95-98A0-428F-8C5E-2DF53299AEAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DF6DD95-98A0-428F-8C5E-2DF53299AEAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1EF8E78-5641-483D-8EA5-05CC09F84824}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1EF8E78-5641-483D-8EA5-05CC09F84824}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1EF8E78-5641-483D-8EA5-05CC09F84824}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1EF8E78-5641-483D-8EA5-05CC09F84824}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
